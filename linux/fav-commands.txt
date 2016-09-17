@@ -1,0 +1,7 @@
+1. Use !$ to access last argument of last command
+	e.g. 	$touch filename.py
+		$mv !$ ~/code		#It will move filename.py to ~/code directory
+
+2. Use Ctrl-R to do reverse-i-search of commands executed
+
+
